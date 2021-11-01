@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SuTHwvhj6p9GAY7pSfWoBDcPz7VHcp6LlVQZFE+ppULMMqc2DHmk3ZtoWZ/WdXzamXUXJCFc1PrgczbJO9zkJA==",
+  "dgSpecHash": "dzUjCZSon+XFGjWDv/jCkajYTfz6FSeWZhyMLo4IEdQijA2Xo1VeMa52dbYMXHltjz9QznUmiePXAR8HCBJB4g==",
   "success": true,
   "projectFilePath": "D:\\Tomg\\Dev\\Lab\\Vocale\\Vocale.API\\Vocale.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tomas\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\tomas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\tomas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\tomas\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
